@@ -1,0 +1,24 @@
+header {
+    background-color: #222;
+    background-image: url('/img/office.jpg');
+    background-size: cover;
+    background-position: 0px;
+    background-repeat: no-repeat;
+    color: white;
+    height: 600px;
+}
+
+.content-header {
+    height: 500px;
+}
+
+.border-r {
+    border-radius: 10px 0 10px 0;
+    padding: 20px;
+}
+
+footer {
+    height: 250px;
+    padding: 40px;
+    background-color: rgba(119, 104, 104, 0.386);
+}
